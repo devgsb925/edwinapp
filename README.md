@@ -1,8 +1,8 @@
 # EdWin App Base Project FRONTEND
 
 ## TODO
-- [ ] Deploy (vercel)
-- [ ] Scaffold basic ui with mock data 
+- [x] Deploy (vercel)
+- [x] Scaffold basic ui with mock data (uploadthing)
 - [ ] Setup Database (vercel postgres)
 - [ ] Attach Database to UI
 - [ ] Add Authentication (Clerk)
